@@ -1,0 +1,11 @@
+class Cheesecake Factory
+
+owner: 'Josh'
+foodType: ['american', 'italian', 'mexican']
+currentOccupancy: 27
+numStaff: 10
+
+changeManagement: owner = 'Steve'
+addFood: ['american', 'italian', 'mexican', 'chinese']
+addGuest: currentOccupancy = 28
+fireWaiter: numStaff = 9

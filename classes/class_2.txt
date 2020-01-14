@@ -1,0 +1,11 @@
+class Casual Dining
+
+owner (string)
+foodType (array)
+currentOccupancy (integer)
+numStaff (integer)
+
+changeManagement (modifies owner attribute)
+addFood (add to foodType array)
+addGuest (increase currentOccupancy by 1)
+fireWaiter (decrease numStaff by 1)

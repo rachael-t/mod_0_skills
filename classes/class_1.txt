@@ -1,0 +1,11 @@
+class Menu
+
+pages (integer)
+languages (array)
+isOpen (boolean)
+font (string)
+
+addSpecial (add to pages by 1)
+addInternationalCuisine (modifies language array)
+read (set isOpen to true)
+reprint (modifies font attribute)

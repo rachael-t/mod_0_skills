@@ -1,0 +1,44 @@
+How to become a Turing student
+
+1. Research school
+  1.1 Review school website
+    1.1.1 Review program options
+    1.1.2 Review admissions process
+    1.2.3 Review financial options
+  1.2 Read articles/blogs about the school's program
+  1.3 Listen to podcasts about the school/founder
+  1.4 Have conversations with current students and alumni
+2. Attend 'try coding' weekend
+  2.1 Sign up for event using eventbrite
+    2.1.1 Pay for event
+  2.2 Attend day 1
+  2.3 Attend day 2
+3. Decide on program
+  3.1 Reflect on research
+  3.2 Reflect on interests/experience
+  3.3 Reflect on 'try coding' weekend experience
+4. Online application
+  4.1 Go to online application website
+  4.2 Share your basic information
+  4.3 Provide work history
+    4.3.1 Submit resume
+    4.3.2 Answer questions
+  4.4 Complete logic games
+5. Interview
+  5.1 Decide on location
+  5.2 Complete pairing exercise
+  5.3 Have conversation regarding community fit
+6. Enrollment
+  6.1 Determine finances
+    6.1.1 Pay deposit
+    6.1.2 Decide on payment option
+  6.2 Select cohort start date
+  6.3 Pick program
+  6.4 Enroll in module 0
+  6.5 Schedule call with enrollment and financial advisor
+7. Successfully complete module 0
+  7.1 Complete computer setup
+  7.2 Attend all sessions
+    7.2.1 Complete session homework assignments
+  7.3 Complete technical assessment
+  7.4 Complete program's capstone assignment

@@ -1,0 +1,11 @@
+Applebee's menu
+
+pages: 8
+languages: ['english', 'spanish']
+isOpen: false
+font: 'arial'
+
+addSpecial: pages = 9
+addInternationalCuisine: ['english', 'spanish', 'french']
+read: isOpen = true
+reprint: font = 'helvetica'
